@@ -32,6 +32,10 @@ searchIcon.onclick = () => {
 // searchIcon.addEventListener('click', function () {
 // })
 
+// Option 3
+// document.getElementById('search-button').onclick = () => {
+// }
+
 // TODO: 6. Click on Close button
 closeButton.onclick = () => {
     // TODO: 7. Close Background overlay
